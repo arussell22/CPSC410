@@ -41,6 +41,20 @@ content/reference/
 *.x86_64
 *.hex
 
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
 # Debug files
 *.dSYM/
 *.su
@@ -56,4 +70,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Stat
+Â© 2017 GitHub, Inc. Terms Privacy Security Stat
